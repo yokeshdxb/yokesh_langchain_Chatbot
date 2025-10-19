@@ -1,4 +1,4 @@
-# Chatbot Integration with FastAPI and Langchain
+# langchain Chatbot Integration with FastAPI and Langchain
 
 ## 🚀 Overview
 This project integrates a chatbot system using **FastAPI** as the web framework, **Langchain** for model handling, and **dotenv** for managing environment variables securely.  
