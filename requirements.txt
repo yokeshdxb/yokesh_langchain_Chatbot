@@ -1,0 +1,9 @@
+fastapi
+uvicorn
+langchain
+langchain-openai
+python-dotenv
+jinja2
+python-multipart
+llama-index
+llama-index-llms-openai
